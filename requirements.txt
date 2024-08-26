@@ -1,0 +1,7 @@
+ipykernel
+langchain
+langchain-community
+langchain-openai
+pypdf
+streamlit
+faiss-cpu
